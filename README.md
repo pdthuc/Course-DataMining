@@ -1,1 +1,2 @@
-# CLUSTERING-CLASSIFICATION_DM-project
+# DATA MINING COURSE
+Khóa học Khai thác dữ liệu HCMUS
